@@ -1,24 +1,28 @@
-## Table of Contents
+## **Table of Contents**
+Insert Link to Project Title
+Insert Link to Description
+Insert Link to Program
+Insert Link to How to Run Program
+Insert Link to Files Used
 
 
 
-
-## Project Title
-
-
-
-## Description
+## **Project Title**
 
 
 
-## Program
+## **Description**
 
 
 
-## How to Run Program
+## **Program**
 
 
 
-## Files Used
+## **How to Run Program**
+
+
+
+## **Files Used**
 
 
